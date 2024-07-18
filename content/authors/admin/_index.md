@@ -55,7 +55,7 @@ education:
     date_start: 2016
     date_end: 2020
     summary: |
-      Thesis on [_Deep Learning for Localization and Segmentation in Thorax Abdomen CT_](https://www.diagnijmegen.nl/publications/hump24/). Supervised by [Prof Bram van Ginneken]([https://example.com](https://www.diagnijmegen.nl/people/bram-van-ginneken/)). Applied Deep Learning for localization and segmentation of organs and abnormalities in CT scans, enhancing radiologists' efficiency and accuracy by providing detailed volumetric data. This research contributed to scientific journal publications. I was also involved in data collection processes for medical data (text and image) for large datasets.
+      Thesis on [_Deep Learning for Localization and Segmentation in Thorax Abdomen CT_](https://www.diagnijmegen.nl/publications/hump24/). Supervised by [Prof Bram van Ginneken](https://www.diagnijmegen.nl/people/bram-van-ginneken/). Applied Deep Learning for localization and segmentation of organs and abnormalities in CT scans, enhancing radiologists' efficiency and accuracy by providing detailed volumetric data. This research contributed to scientific journal publications. I was also involved in data collection processes for medical data (text and image) for large datasets.
     button:
       text: 'Read Thesis'
       url: '[https://example.com](https://repository.ubn.ru.nl/handle/2066/307069)'
