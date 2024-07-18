@@ -11,7 +11,7 @@ last_name: Humpire Mamani
 
 # Status emoji
 status:
-  icon: ☕️
+  icon:
 
 # Is this the primary user of the site?
 superuser: true
@@ -24,8 +24,8 @@ role: Senior Data Scientist
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
-  - name: OpenAI
-    url: https://openai.com/
+  - name:
+    url:
 
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
@@ -50,60 +50,44 @@ interests:
   - Pattern Recognition
 
 education:
-  - area: PhD Artificial Intelligence
+  - area: PhD in Machine Learning for Medical Imaging
     institution: Radboud University Medical Center
     date_start: 2016
     date_end: 2020
     summary: |
-      Thesis on _Why LLMs are awesome_. Supervised by [Prof Joe Smith](https://example.com). Presented papers at 5 IEEE conferences with the contributions being published in 2 Springer journals.
+      Thesis on [_Deep Learning for Localization and Segmentation in Thorax Abdomen CT_](https://www.diagnijmegen.nl/publications/hump24/). Supervised by [Prof Bram van Ginneken]([https://example.com](https://www.diagnijmegen.nl/people/bram-van-ginneken/)). Applied Deep Learning for localization and segmentation of organs and abnormalities in CT scans, enhancing radiologists' efficiency and accuracy by providing detailed volumetric data. This research contributed to scientific journal publications. I was also involved in data collection processes for medical data (text and image) for large datasets.
     button:
       text: 'Read Thesis'
-      url: 'https://example.com'
-  - area: MEng Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      url: '[https://example.com](https://repository.ubn.ru.nl/handle/2066/307069)'
+  - area: M.Sc in Computer Science
+    institution: University of Sao Paulo
+    date_start: 2011
+    date_end: 2012
     summary: |
-      GPA: 3.8/4.0
-
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - area: BSc Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+      Dissertation on [_Supervised Feature Selection by Ranking to Process Similarity Queries in Medical Imaging_](https://www.teses.usp.br/teses/disponiveis/55/55134/tde-20022013-095418/en.php)
+      Published papers in conferences.
+  - area: B.Sc (Hons.) in Computer Science
+    institution: National University of San Agustin
+    date_start: 2005
+    date_end: 2010
     summary: |
-      GPA: 3.4/4.0
-      
-      Courses included:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
-  - position: Director of Cloud Infrastructure
-    company_name: GenCoin
+  - position: Senior Data Scientist
+    company_name: Nuctech Netherlands
     company_url: ''
     company_logo: ''
-    date_start: 2021-01-01
+    date_start: 2020-03-01
     date_end: ''
     summary: |2-
       Responsibilities include:
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - position: Backend Software Engineer
-    company_name: X
+  - position: Python researcher
+    company_name: OutlierAI
     company_url: ''
     company_logo: ''
-    date_start: 2016-01-01
-    date_end: 2020-12-31
+    date_start: 2024-05-01
+    date_end: ''
     summary: |
       Responsibilities include:
-      - Migrated infrastructure to a new data center
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
-      - lorem ipsum dolor sit amet, consectetur adipiscing elit
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
