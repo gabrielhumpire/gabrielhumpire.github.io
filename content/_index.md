@@ -44,15 +44,16 @@ sections:
       columns: '1'
 
   - block: collection
+    id: papers
     content:
-      title: Relevant projects
-      text: ""
+      title: Relevant Projects
       filters:
         folders:
           - project
-        exclude_featured: false
+        featured_only: true
     design:
-      view: citation
+      view: article-grid
+      columns: 2
 
   - block: collection
     content:
