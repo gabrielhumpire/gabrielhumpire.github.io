@@ -55,7 +55,7 @@ education:
     date_start: 2016
     date_end: 2020
     summary: |
-      Thesis on [_Deep Learning for Localization and Segmentation in Thorax Abdomen CT_](https://www.diagnijmegen.nl/publications/hump24/). Supervised by [Prof Bram van Ginneken](https://www.diagnijmegen.nl/people/bram-van-ginneken/). Applied Deep Learning for localization and segmentation of organs and abnormalities in CT scans, enhancing radiologists' efficiency and accuracy by providing detailed volumetric data. This research contributed to scientific journal publications. I was also involved in data collection processes for medical data (text and image) for large datasets.
+      Thesis on [_Deep Learning for Localization and Segmentation in Thorax Abdomen CT_](https://www.diagnijmegen.nl/publications/hump24/). Supervised by [Prof. Dr. Bram van Ginneken](https://www.diagnijmegen.nl/people/bram-van-ginneken/), [Prof. Dr. Mathias Prokop](https://www.radboudumc.nl/en/people/mathias-prokop), [Dr. Colin Jacobs](https://www.diagnijmegen.nl/people/colin-jacobs/), and [Dr. Nikolas Lessmann](https://www.diagnijmegen.nl/people/nikolas-lessmann/). Applied Deep Learning for localization and segmentation of organs and abnormalities in CT scans, enhancing radiologists' efficiency and accuracy by providing detailed volumetric data. This research contributed to scientific journal publications. I was also involved in data collection processes for medical data (text and image) for large datasets.
     button:
       text: 'Read Thesis'
       url: '[https://example.com](https://repository.ubn.ru.nl/handle/2066/307069)'
@@ -71,6 +71,7 @@ education:
     date_start: 2005
     date_end: 2010
     summary: |
+    Dissertation on ``Feature Extraction and Distance Function Selection to Retrieve Microscopic Images of Parasites``.
 work:
   - position: Senior Data Scientist
     company_name: Nuctech Netherlands
@@ -124,12 +125,14 @@ skills:
         icon: camera
 
 languages:
+  - name: Spanish
+    percent: 100
   - name: English
     percent: 100
-  - name: Chinese
-    percent: 75
   - name: Portuguese
-    percent: 25
+    percent: 100
+  - name: Dutch
+    percent: 10
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -165,4 +168,4 @@ awards:
 
 ## About Me
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am an experienced data scientist with a strong background in Python & C++, Computer Vision, deep learning, and machine learning in medical imaging. I have developed, deployed, and evaluated neural networks, particularly in medical imaging and computer vision. Additionally, my research applied to medical imaging has garnered over 1500 citations on [Google Scholar](https://scholar.google.com/citations?user=oE82pPoAAAAJ&hl=en&oi=ao).
