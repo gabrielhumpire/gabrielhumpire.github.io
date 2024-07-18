@@ -45,7 +45,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: [https://pubs.rsna.org/doi/full/10.1148/ryai.2020190102](https://pubs.rsna.org/doi/full/10.1148/ryai.2020190102)
+url_pdf: 'https://pubs.rsna.org/doi/full/10.1148/ryai.2020190102'
 url_code: ''
 url_dataset: ''
 url_poster: ''
