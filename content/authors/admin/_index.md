@@ -71,7 +71,7 @@ education:
     date_start: 2005
     date_end: 2010
     summary: |
-    Dissertation on ``Feature Extraction and Distance Function Selection to Retrieve Microscopic Images of Parasites``.
+    Dissertation on: Feature Extraction and Distance Function Selection to Retrieve Microscopic Images of Parasites.
 work:
   - position: Senior Data Scientist
     company_name: Nuctech Netherlands
