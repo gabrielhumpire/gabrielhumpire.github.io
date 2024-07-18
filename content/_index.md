@@ -52,8 +52,10 @@ sections:
           - experience.md
         featured_only: true
     design:
-      view: article-grid
-      columns: 2
+      view: date-title-summary
+      spacing:
+          padding: [0, 0, 0, 0]
+
 
   - block: collection
     id: projects
