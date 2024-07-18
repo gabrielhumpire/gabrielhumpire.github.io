@@ -58,7 +58,7 @@ education:
       Thesis on Deep Learning for Localization and Segmentation in Thorax Abdomen CT. Supervised by Prof. Dr. Bram van Ginneken, Prof. Dr. Mathias Prokop, Dr. Colin Jacobs, and Dr. Nikolas Lessmann. Applied Deep Learning for localization and segmentation of organs and abnormalities in CT scans, enhancing radiologists' efficiency and accuracy by providing detailed volumetric data. This research contributed to scientific journal publications. I was also involved in data collection processes for medical data (text and image) for large datasets.
     button:
       text: 'Read Thesis'
-      url: 'https://www.diagnijmegen.nl/publications/hump24/'
+      url: 
   - area: M.Sc in Computer Science
     institution: University of Sao Paulo
     date_start: 2011-03-01
@@ -68,7 +68,7 @@ education:
       Published papers in conferences.
      button:
       text: 'Read Dissertation'
-      url: 'https://www.teses.usp.br/teses/disponiveis/55/55134/tde-20022013-095418/en.php'
+      url:
   - area: B.Sc (Hons.) in Computer Science
     institution: National University of San Agustin
     date_start: 2005-04-01
