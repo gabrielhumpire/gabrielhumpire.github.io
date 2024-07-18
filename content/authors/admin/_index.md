@@ -55,17 +55,20 @@ education:
     date_start: 2016-02-15
     date_end: 2020-02-15
     summary: |
-      Thesis on [Deep Learning for Localization and Segmentation in Thorax Abdomen CT](https://www.diagnijmegen.nl/publications/hump24/). Supervised by [Prof. Dr. Bram van Ginneken](https://www.diagnijmegen.nl/people/bram-van-ginneken/), [Prof. Dr. Mathias Prokop](https://www.radboudumc.nl/en/people/mathias-prokop), [Dr. Colin Jacobs](https://www.diagnijmegen.nl/people/colin-jacobs/), and [Dr. Nikolas Lessmann](https://www.diagnijmegen.nl/people/nikolas-lessmann/). Applied Deep Learning for localization and segmentation of organs and abnormalities in CT scans, enhancing radiologists' efficiency and accuracy by providing detailed volumetric data. This research contributed to scientific journal publications. I was also involved in data collection processes for medical data (text and image) for large datasets.
+      Thesis on _Deep Learning for Localization and Segmentation in Thorax Abdomen CT_. Supervised by Prof. Dr. Bram van Ginneken, Prof. Dr. Mathias Prokop, Dr. Colin Jacobs, and Dr. Nikolas Lessmann. Applied Deep Learning for localization and segmentation of organs and abnormalities in CT scans, enhancing radiologists' efficiency and accuracy by providing detailed volumetric data. This research contributed to scientific journal publications. I was also involved in data collection processes for medical data (text and image) for large datasets.
     button:
       text: 'Read Thesis'
-      url: '[https://repository.ubn.ru.nl/handle/2066/307069](https://repository.ubn.ru.nl/handle/2066/307069)'
+      url: 'https://www.diagnijmegen.nl/publications/hump24/'
   - area: M.Sc in Computer Science
     institution: University of Sao Paulo
     date_start: 2011-03-01
     date_end: 2012-12-05
     summary: |
-      Dissertation on [Supervised Feature Selection by Ranking to Process Similarity Queries in Medical Imaging](https://www.teses.usp.br/teses/disponiveis/55/55134/tde-20022013-095418/en.php)
+      Dissertation on _Supervised Feature Selection by Ranking to Process Similarity Queries in Medical Imaging_
       Published papers in conferences.
+     button:
+      text: 'Read Dissertation'
+      url: 'https://www.teses.usp.br/teses/disponiveis/55/55134/tde-20022013-095418/en.php'
   - area: B.Sc (Hons.) in Computer Science
     institution: National University of San Agustin
     date_start: 2005-04-01
