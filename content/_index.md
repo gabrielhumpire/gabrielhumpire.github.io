@@ -44,7 +44,19 @@ sections:
       columns: '1'
 
   - block: collection
-    id: papers
+    id: experience
+    content:
+      title: Experience
+      filters:
+        folders:
+          - experience.md
+        featured_only: true
+    design:
+      view: article-grid
+      columns: 2
+
+  - block: collection
+    id: projects
     content:
       title: Relevant Projects
       filters:
