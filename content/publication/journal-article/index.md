@@ -40,7 +40,6 @@ summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere t
 
 tags:
 - Segmentation
-featured: false
 - Deep Learning
 - Medical imaging
 
