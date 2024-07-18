@@ -22,17 +22,18 @@ publication_types: ["article-journal"]
 publication: "*Radiology: Artificial Intelligence,* 2020;2(4):e190102"
 publication_short: ""
 
-abstract: Purpose
-To develop a fully automated algorithm for spleen segmentation and to assess the performance of this algorithm in a large dataset.
-
-Materials and Methods
-In this retrospective study, a three-dimensional deep learning network was developed to segment the spleen on thorax-abdomen CT scans. Scans were extracted from patients undergoing oncologic treatment from 2014 to 2017. A total of 1100 scans from 1100 patients were used in this study, and 400 were selected for development of the algorithm. For testing, a dataset of 50 scans was annotated to assess the segmentation accuracy and was compared against the splenic index equation. In a qualitative observer experiment, an enriched set of 100 scan-pairs was used to evaluate whether the algorithm could aid a radiologist in assessing splenic volume change. The reference standard was set by the consensus of two other independent radiologists. A Mann-Whitney U test was conducted to test whether there was a performance difference between the algorithm and the independent observer.
-
-Results
-The algorithm and the independent observer obtained comparable Dice scores (P = .834) on the test set of 50 scans of 0.962 and 0.964, respectively. The radiologist had an agreement with the reference standard in 81% (81 of 100) of the cases after a visual classification of volume change, which increased to 92% (92 of 100) when aided by the algorithm.
-
-Conclusion
-A segmentation method based on deep learning can accurately segment the spleen on CT scans and may help radiologists to detect abnormal splenic volumes and splenic volume changes.
+abstract:
+  Purpose
+  To develop a fully automated algorithm for spleen segmentation and to assess the performance of this algorithm in a large dataset.
+  
+  Materials and Methods
+  In this retrospective study, a three-dimensional deep learning network was developed to segment the spleen on thorax-abdomen CT scans. Scans were extracted from patients undergoing oncologic treatment from 2014 to 2017. A total of 1100 scans from 1100 patients were used in this study, and 400 were selected for development of the algorithm. For testing, a dataset of 50 scans was annotated to assess the segmentation accuracy and was compared against the splenic index equation. In a qualitative observer experiment, an enriched set of 100 scan-pairs was used to evaluate whether the algorithm could aid a radiologist in assessing splenic volume change. The reference standard was set by the consensus of two other independent radiologists. A Mann-Whitney U test was conducted to test whether there was a performance difference between the algorithm and the independent observer.
+  
+  Results
+  The algorithm and the independent observer obtained comparable Dice scores (P = .834) on the test set of 50 scans of 0.962 and 0.964, respectively. The radiologist had an agreement with the reference standard in 81% (81 of 100) of the cases after a visual classification of volume change, which increased to 92% (92 of 100) when aided by the algorithm.
+  
+  Conclusion
+  A segmentation method based on deep learning can accurately segment the spleen on CT scans and may help radiologists to detect abnormal splenic volumes and splenic volume changes.
 
 # Summary. An optional shortened abstract.
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
