@@ -39,8 +39,10 @@ abstract:
 summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
 
 tags:
-- Source Themes
+- Segmentation
 featured: false
+- Deep Learning
+- Medical imaging
 
 # links:
 # - name: ""
