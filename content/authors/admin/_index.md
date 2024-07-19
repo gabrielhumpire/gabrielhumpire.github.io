@@ -37,7 +37,7 @@ profiles:
   - icon: academicons/google-scholar
     url: https://scholar.google.com/citations?user=oE82pPoAAAAJ&hl=en&oi=ao
   - icon: academicons/orcid
-    url: https://orcid.org/
+    url: https://orcid.org/0000-0002-3199-8163
 
 interests:
   - Computer Vision
