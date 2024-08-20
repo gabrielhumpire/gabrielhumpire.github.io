@@ -96,25 +96,43 @@ skills:
   - name: Technical Skills
     items:
       - name: C++
+        description: ''
       - name: Python
+        description: ''
         icon: code-bracket
       - name: OpenCV
+        description: ''
       - name: TensorFLow
+        description: ''
       - name: Keras
+        description: ''
       - name: PyTorch
+        description: ''
       - name: Docker
+        description: ''
       - name: Numpy
+        description: ''
       - name: SimpleITK
+        description: ''
       - name: Scikit-Learn
+        description: ''
       - name: TensorRT
+        description: ''
       - name: ONNX
+        description: ''
       - name: CMake
+        description: ''
       - name: VIM
+        description: ''
       - name: Matlab
+        description: ''
       - name: GIT
+        description: ''
       - name: Data Science
+        description: ''
         icon: chart-bar
       - name: SQL
+        description: ''
         icon: circle-stack
 
 languages:
