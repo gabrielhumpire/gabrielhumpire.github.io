@@ -97,42 +97,60 @@ skills:
     items:
       - name: C++
         description: ''
+        percent: 100
       - name: Python
         description: ''
+        percent: 100
         icon: code-bracket
       - name: OpenCV
         description: ''
+        percent: 100
       - name: TensorFLow
         description: ''
+        percent: 100
       - name: Keras
         description: ''
+        percent: 100
       - name: PyTorch
         description: ''
+        percent: 100
       - name: Docker
         description: ''
+        percent: 100
       - name: Numpy
         description: ''
+        percent: 100
       - name: SimpleITK
         description: ''
+        percent: 100
       - name: Scikit-Learn
         description: ''
+        percent: 100
       - name: TensorRT
         description: ''
+        percent: 100
       - name: ONNX
         description: ''
+        percent: 100
       - name: CMake
         description: ''
+        percent: 100
       - name: VIM
         description: ''
+        percent: 100
       - name: Matlab
         description: ''
+        percent: 100
       - name: GIT
         description: ''
+        percent: 100
       - name: Data Science
         description: ''
+        percent: 100
         icon: chart-bar
       - name: SQL
         description: ''
+        percent: 100
         icon: circle-stack
 
 languages:
