@@ -46,8 +46,6 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
 url_pdf: 'https://pubs.rsna.org/doi/full/10.1148/ryai.2020190102'
 url_code: ''
 url_dataset: ''
