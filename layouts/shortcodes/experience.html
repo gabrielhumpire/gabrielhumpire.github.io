@@ -1,0 +1,6 @@
+{{ with .Page.Site.GetPage "section" "experience" }}
+<div class="experience-block">
+    <h2>{{ .Title }}</h2>
+    {{ .Content }}
+</div>
+{{ end }}
