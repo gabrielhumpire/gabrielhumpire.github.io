@@ -40,19 +40,15 @@ sections:
         I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
     design:
       columns: '1'
-  {{< experience >}}
-  - block: collection
+  
+  - block: markdown
     id: experience
     content:
       title: Experience
-      filters:
-        folders:
-          - experience.md
-        featured_only: true
+      text: |-
+            {{< experience >}}
     design:
-      view: date-title-summary
-      spacing:
-          padding: [0, 0, 0, 0]
+      columns: '1'
 
 
   - block: collection
