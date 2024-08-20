@@ -56,7 +56,7 @@ education:
     button:
       text: 'Read Thesis'
       url: 'https://www.diagnijmegen.nl/publications/hump24/'
-  - area: M.Sc in Computer Science
+  - area: MSc in Computer Science
     institution: University of Sao Paulo
     date_start: 2011-03-01
     date_end: 2012-12-05
@@ -66,7 +66,7 @@ education:
     button:
       text: 'Read Dissertation'
       url: 'https://www.teses.usp.br/teses/disponiveis/55/55134/tde-20022013-095418/en.php'
-  - area: B.Sc (Hons.) in Computer Science
+  - area: BSc (Hons) in Computer Science
     institution: National University of San Agustin
     date_start: 2005-04-01
     date_end: 2010-12-01
@@ -107,22 +107,6 @@ skills:
         description: ''
         percent: 40
         icon: circle-stack
-  - name: Hobbies
-    color: '#eeac02'
-    color_border: '#f0bf23'
-    items:
-      - name: Hiking
-        description: ''
-        percent: 60
-        icon: person-simple-walk
-      - name: Cats
-        description: ''
-        percent: 100
-        icon: cat
-      - name: Photography
-        description: ''
-        percent: 80
-        icon: camera
 
 languages:
   - name: Spanish
@@ -139,33 +123,15 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Neural Networks and Deep Learning
-    url: https://www.coursera.org/learn/neural-networks-deep-learning
-    date: '2023-11-25'
-    awarder: Coursera
-    icon: coursera
+  - title: Winner of the Brazilian COVID19 detection/segmentation challenge
+    url: https://jornal.usp.br/universidade/sistema-que-identifica-covid-19-em-tomografias-e-selecionado-em-desafio-internacional/
+    date: '2020-08-07'
+    awarder: Government of the State of São Paulo/Brazil
+    icon: university
     summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
-  - title: Blockchain Fundamentals
-    url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
-    date: '2023-07-01'
-    awarder: edX
-    icon: edx
-    summary: |
-      Learned:
-      - Synthesize your own blockchain solutions
-      - Gain an in-depth understanding of the specific mechanics of Bitcoin
-      - Understand Bitcoin’s real-life applications and learn how to attack and destroy Bitcoin, Ethereum, smart contracts and Dapps, and alternatives to Bitcoin’s Proof-of-Work consensus algorithm
-  - title: 'Object-Oriented Programming in R'
-    url: https://www.datacamp.com/courses/object-oriented-programming-with-s3-and-r6-in-r
-    certificate_url: https://www.datacamp.com
-    date: '2023-01-21'
-    awarder: datacamp
-    icon: datacamp
-    summary: |
-      Object-oriented programming (OOP) lets you specify relationships between functions and the objects that they can act on, helping you manage complexity in your code. This is an intermediate level course, providing an introduction to OOP, using the S3 and R6 systems. S3 is a great day-to-day R programming tool that simplifies some of the functions that you write. R6 is especially useful for industry-specific analyses, working with web APIs, and building GUIs.
+      I won the automatic COVID19 detection challenge using CT scans. Gabriel was interviewed by the [University of São Paulo](https://www5.usp.br/). This challenge was organized by the Gov of São Paulo.
 ---
 
 ## About Me
 
-I am an experienced data scientist with a strong background in Python & C++, Computer Vision, deep learning, and machine learning in medical imaging. I have developed, deployed, and evaluated neural networks, particularly in medical imaging and computer vision. Additionally, my research applied to medical imaging has garnered over 1500 citations on [Google Scholar](https://scholar.google.com/citations?user=oE82pPoAAAAJ&hl=en&oi=ao).
+I am an experienced data scientist with a strong background in Python & C++, Computer Vision, deep learning, and machine learning in medical imaging. I have developed, deployed, and evaluated neural networks, particularly in medical imaging and computer vision. Additionally, my research applied to medical imaging has garnered over 1600 citations on [Google Scholar](https://scholar.google.com/citations?user=oE82pPoAAAAJ&hl=en&oi=ao).
