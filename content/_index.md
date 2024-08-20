@@ -71,13 +71,6 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  # Skills
-  - block: resume-skills
-    content:
-      title: Skills
-      username: admin
-    design:
-      show_skill_percentage: false
   # Awards
   - block: resume-awards
     content:
