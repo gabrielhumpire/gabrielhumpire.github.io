@@ -19,7 +19,7 @@ publication: "*Radboud University*."
 publication_short: ""
 
 abstract:
-  
+  The work presented in this thesis is focused on using DL for detecting and segmenting structures in CT scans. In Chapter 2, we present a method for localizing organs in 2D orthogonal views; this method combines the outputs of each orthogonal view to compose a 3D bounding box per organ. In Chapter 3, we apply a state-of-the-art segmentation algorithm using Convolutional Neural Networks (CNN) to segment the spleen, achieving performance comparable to that of an independent observer. In an observer experiment, the radiologist rated the segmentation quality as 94% as ready for clinical use. Additionally, we performed an experiment to measure the splenic volume change over time. In Chapter 4, we segment the kidneys and kidney abnormalities, including cysts, lesions, masses, metastases, and tumors. We conducted an ablation study to analyze the performance of five components of the method. In Chapter 5, we explore the use of transfer learning to segment additional structures using a partially annotated dataset (a junction of publicly available datasets and data from public challenges). Finally, Chapter 6, provides the general discussion and summary of this thesis.
 
 # Summary. An optional shortened abstract.
 summary: Deep Learning for Localization and Segmentation in Thorax Abdomen CT.
