@@ -95,14 +95,12 @@ work:
 skills:
   - name: Technical Skills
     items:
+      - name: C++
       - name: Python
-        description: ''
         icon: code-bracket
       - name: Data Science
-        description: ''
         icon: chart-bar
       - name: SQL
-        description: ''
         icon: circle-stack
 
 languages:
