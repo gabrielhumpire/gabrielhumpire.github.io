@@ -98,6 +98,20 @@ skills:
       - name: C++
       - name: Python
         icon: code-bracket
+      - name: OpenCV
+      - name: TensorFLow
+      - name: Keras
+      - name: PyTorch
+      - name: Docker
+      - name: Numpy
+      - name: SimpleITK
+      - name: Scikit-Learn
+      - name: TensorRT
+      - name: ONNX
+      - name: CMake
+      - name: VIM
+      - name: Matlab
+      - name: GIT
       - name: Data Science
         icon: chart-bar
       - name: SQL
