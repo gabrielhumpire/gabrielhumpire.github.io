@@ -43,6 +43,8 @@ tags:
 - Deep Learning
 - Medical imaging
 
+featured: true
+
 # links:
 # - name: ""
 #   url: ""
