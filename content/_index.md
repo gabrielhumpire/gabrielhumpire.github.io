@@ -56,17 +56,17 @@ sections:
 
 
   - block: collection
-    id: projects
+    id: papers
     content:
       title: Relevant Projects
       filters:
         folders:
-          - project
+          - publication
         featured_only: true
     design:
       view: article-grid
       columns: 2
-
+  
   - block: collection
     content:
       title: Recent Publications
