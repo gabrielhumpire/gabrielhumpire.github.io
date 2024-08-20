@@ -40,16 +40,8 @@ sections:
         I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
     design:
       columns: '1'
-  
-  - block: markdown
-    id: experience
-    content:
-      title: Experience
-      text: |-
-            {{< experience >}}
-    design:
-      columns: '1'
 
+  # Work Experience
   - block: resume-experience
     content:
       username: admin
@@ -58,9 +50,11 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
+  
+  # Skills
   - block: resume-skills
     content:
-      title: Skills & Hobbies
+      title: Skills
       username: admin
     design:
       show_skill_percentage: false
@@ -68,11 +62,8 @@ sections:
     content:
       title: Awards
       username: admin
-  - block: resume-languages
-    content:
-      title: Languages
-      username: admin
 
+  # Relevant projects
   - block: collection
     id: papers
     content:
@@ -84,7 +75,8 @@ sections:
     design:
       view: article-grid
       columns: 2
-  
+
+  # Scientific publications
   - block: collection
     content:
       title: Recent Publications
@@ -95,4 +87,10 @@ sections:
         exclude_featured: false
     design:
       view: citation
+
+  # Languages
+  - block: resume-languages
+    content:
+      title: Languages
+      username: admin
 ---
