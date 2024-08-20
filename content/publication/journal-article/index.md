@@ -47,10 +47,10 @@ featured: true
 
 links:
 url_pdf: 'https://pubs.rsna.org/doi/full/10.1148/ryai.2020190102'
+url_project: 'https://grand-challenge.org/algorithms/spleen-segmentation/'
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: 'https://grand-challenge.org/algorithms/spleen-segmentation/'
 url_slides: ''
 url_source: ''
 url_video: ''
