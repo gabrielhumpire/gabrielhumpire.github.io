@@ -15,7 +15,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["thesis"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Radboud University*."
+publication: "*Radboud University*"
 publication_short: ""
 
 abstract:
