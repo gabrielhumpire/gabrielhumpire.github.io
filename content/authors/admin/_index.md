@@ -101,7 +101,7 @@ skills:
       - name: Python
         description: ''
         percent: 100
-        icon: code-bracket
+        # icon: code-bracket
       - name: OpenCV
         description: ''
         percent: 100
@@ -147,11 +147,11 @@ skills:
       - name: Data Science
         description: ''
         percent: 100
-        icon: chart-bar
+        # icon: chart-bar
       - name: SQL
         description: ''
         percent: 100
-        icon: circle-stack
+        # icon: circle-stack
 
 languages:
   - name: Spanish
