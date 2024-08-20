@@ -25,9 +25,7 @@ abstract:
 
 Our approach predicts the location of multiple structures using a single multi-label convolutional neural network for each orthogonal view. Each network takes extra slices around the current slice as input to provide extra context. A sigmoid layer is used to perform multi-label classification. The output of the three networks is subsequently combined to compute a 3D bounding box for each structure. We used our approach to locate 11 structures of interest. The neural network was trained and evaluated on a large set of 1884 thorax-abdomen CT scans from patients undergoing oncological workup. Reference bounding boxes were annotated by human observers.
 
-The performance of our method was evaluated by computing the wall distance to the reference bounding boxes. The bounding boxes annotated by the first human observer were used as the reference standard for the test set. Using the best configuration, we obtained an average wall distance of 
- mm in the test set. The second human observer achieved 
- mm. For all structures, the results were better than those reported in previously published studies.
+The performance of our method was evaluated by computing the wall distance to the reference bounding boxes. The bounding boxes annotated by the first human observer were used as the reference standard for the test set. Using the best configuration, we obtained an average wall distance of 3.20 +- 7.33 mm in the test set. The second human observer achieved 1.23 +- 3.39 mm. For all structures, the results were better than those reported in previously published studies.
 
 In conclusion, we proposed an efficient method for the accurate localization of multiple organs. Our method uses multiple slices as input to provide more context around the slice under analysis, and we have shown that this improves performance. This method can easily be adapted to handle more organs.
 
