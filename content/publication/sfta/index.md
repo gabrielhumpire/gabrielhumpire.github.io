@@ -34,10 +34,10 @@ tags:
 featured: false
 
 links:
-url_pdf: 'https://www.sciencedirect.com/science/article/pii/S1361841522003085'
-url_project: ''
-url_code: ''
-url_dataset: 'https://competitions.codalab.org/competitions/17094'
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/6382737'
+url_project: 'https://alceufc.blogspot.com/2013/09/texture-classification.html'
+url_code: 'https://github.com/alceufc/sfta'
+url_dataset: ''
 url_poster: ''
 url_slides: ''
 url_source: ''
