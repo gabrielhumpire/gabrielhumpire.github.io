@@ -113,7 +113,7 @@ skills:
         percent: 100
       - name: PyTorch
         description: ''
-        percent: 100
+        percent: 50
       - name: Docker
         description: ''
         percent: 100
@@ -125,32 +125,32 @@ skills:
         percent: 100
       - name: Scikit-Learn
         description: ''
-        percent: 100
+        percent: 90
       - name: TensorRT
         description: ''
-        percent: 100
+        percent: 80
       - name: ONNX
         description: ''
-        percent: 100
+        percent: 80
       - name: CMake
         description: ''
-        percent: 100
+        percent: 90
       - name: VIM
         description: ''
-        percent: 100
+        percent: 90
       - name: Matlab
         description: ''
-        percent: 100
+        percent: 60
       - name: GIT
         description: ''
-        percent: 100
+        percent: 95
       - name: Data Science
         description: ''
         percent: 100
         # icon: chart-bar
       - name: SQL
         description: ''
-        percent: 100
+        percent: 50
         # icon: circle-stack
 
 languages:
