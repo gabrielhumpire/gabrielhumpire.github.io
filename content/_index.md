@@ -40,7 +40,7 @@ sections:
         I apply a range of qualitative and quantitative methods to comprehensively investigate the role of science and technology in the economy.
     design:
       columns: '1'
-
+  {{< experience >}}
   - block: collection
     id: experience
     content:
