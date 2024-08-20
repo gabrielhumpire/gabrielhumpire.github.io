@@ -1,5 +1,5 @@
 ---
-title: "The Liver Tumor Segmentation Benchmark (LiTS)."
+title: "The Liver Tumor Segmentation Benchmark (LiTS)"
 authors:
 - Patrick Bilic
 - Patrick Christ
@@ -122,7 +122,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "P Bilic et al. Medical Image Analysis 84, 102680"
+publication: "Medical Image Analysis 84, 102680"
 publication_short: ""
 
 abstract:
