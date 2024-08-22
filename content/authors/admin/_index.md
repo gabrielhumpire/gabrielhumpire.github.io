@@ -106,7 +106,7 @@ work:
     summary: |2-
       Description: Teaching assistant of the Intelligent Systems in Medical Imaging course for Master students. Supervised a Master student during her graduation project.
   - position: Team leader & Software Developer
-    company_name: BTC & Motorola Mobility:
+    company_name: BTC & Motorola Mobility
     company_url: ''
     company_logo: ''
     date_start: 2013-09-01
