@@ -36,7 +36,7 @@ header:
       text: "Gabriel Humpire"
 
 # Site footer
-footer: false
+footer:
 # Localization
 locale:
   date_format: 'Jan 2, 2006'
