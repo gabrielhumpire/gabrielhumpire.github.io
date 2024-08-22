@@ -52,7 +52,7 @@ education:
     date_start: 2016-02-15
     date_end: 2020-02-15
     summary: |
-      Thesis on Deep Learning for Localization and Segmentation in Thorax Abdomen CT. Supervised by Prof. Dr. Bram van Ginneken, Prof. Dr. Mathias Prokop, Dr. Colin Jacobs, and Dr. Nikolas Lessmann. Applied Deep Learning for localization and segmentation of organs and abnormalities in CT scans, enhancing radiologists' efficiency and accuracy by providing detailed volumetric data. This research contributed to scientific journal publications. I was also involved in data collection processes for medical data (text and image) for large datasets.
+      Thesis on Deep Learning for Localization and Segmentation in Thorax Abdomen CT. Applied Deep Learning for localization and segmentation of organs and abnormalities in CT scans. This research contributed to scientific journal publications.
     button:
       text: 'Read Thesis'
       url: 'https://www.diagnijmegen.nl/publications/hump24/'
@@ -61,8 +61,8 @@ education:
     date_start: 2011-03-01
     date_end: 2012-12-05
     summary: |
-      Dissertation on Supervised Feature Selection by Ranking to Process Similarity Queries in Medical Imaging
-      Published papers in conferences.
+      Dissertation on Supervised Feature Selection by Ranking to Process Similarity Queries in Medical Imaging.
+      Published scientific papers in conferences.
     button:
       text: 'Read Dissertation'
       url: 'https://www.teses.usp.br/teses/disponiveis/55/55134/tde-20022013-095418/en.php'
@@ -74,7 +74,7 @@ education:
     Dissertation on: Feature Extraction and Distance Function Selection to Retrieve Microscopic Images of Parasites.
 work:
   - position: Senior Data Scientist
-    company_name: Nuctech Netherlands
+    company_name: Nuctech Netherlands B.V.
     company_url: ''
     company_logo: ''
     date_start: 2020-03-01
@@ -89,7 +89,39 @@ work:
     date_end: ''
     summary: |
       Responsibilities include:
-
+ - position: Mentor of LiveProjects
+    company_name: Manning Publications Co.
+    company_url: ''
+    company_logo: ''
+    date_start: 2020-01-01
+    date_end: '2020-12-31'
+    summary: |
+      Guided 10 students to develop Deep Learning projects from data collection, training, testing, and reporting.
+ - position: Teaching assistant
+    company_name: Radboud University
+    company_url: ''
+    company_logo: ''
+    date_start: 2017-01-01
+    date_end: '2016-07-01'
+    summary: |
+      Teaching assistant of the Intelligent Systems in Medical Imaging course for Master students. Supervised a Master student during her graduation project.
+ - position: Team leader & Software Developer
+    company_name: BTC & Motorola Mobility:
+    company_url: ''
+    company_logo: ''
+    date_start: 2013-09-01
+    date_end: '2016-02-14'
+    summary: |
+      Proposed solution for Google acceptance and sanity tests; 80% faster and ~200% more precise than previous approaches. Created the Android Automation team and lead 5 Software developers.
+ - position: Computer Vision Consultant
+    company_name: OrkaPod Inc
+    company_url: ''
+    company_logo: ''
+    date_start: 2015-01-01
+    date_end: '2015-12-31'
+    summary: |
+      Reduced the false positive rate of OrkaPod’s face recognition algorithm using OpenCV.
+   
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
