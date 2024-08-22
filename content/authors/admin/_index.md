@@ -112,7 +112,7 @@ work:
     date_start: 2013-09-01
     date_end: '2016-02-14'
     summary: |
-      Proposed solution for Google acceptance and sanity tests; 80% faster and ~200% more precise than previous approaches. Created the Android Automation team and lead 5 Software developers.
+      Proposed solution for Google acceptance and sanity tests; 80% faster and 200% more precise than previous approaches. Created the Android Automation team and lead 5 Software developers.
  - position: Computer Vision Consultant
     company_name: OrkaPod Inc
     company_url: ''
