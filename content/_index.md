@@ -74,7 +74,7 @@ sections:
   # Awards
   - block: resume-awards
     content:
-      title: Awards
+      title: News & awards
       username: admin
   # Languages
   - block: resume-languages
