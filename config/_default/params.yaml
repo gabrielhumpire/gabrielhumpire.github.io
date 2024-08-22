@@ -48,11 +48,3 @@ features:
     enable: false
   privacy_pack:
     enable: false
-
-# To hide footer
-params:
-  power_ups:
-    hide_published_with: false
-
-power_ups:
-    hide_published_with: false
