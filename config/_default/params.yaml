@@ -37,6 +37,7 @@ header:
 
 # Site footer
 footer:
+showFooter: false
 # Localization
 locale:
   date_format: 'Jan 2, 2006'
