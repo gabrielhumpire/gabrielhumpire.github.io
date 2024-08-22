@@ -87,7 +87,7 @@ work:
     company_logo: ''
     date_start: 2024-05-01
     date_end: ''
-    summary: |
+    summary: |2-
       Description:
  - position: Mentor of LiveProjects
     company_name: Manning Publications Co.
@@ -95,7 +95,7 @@ work:
     company_logo: ''
     date_start: 2020-01-01
     date_end: '2020-12-31'
-    summary: |
+    summary: |2-
       Description: Guided 10 students to develop Deep Learning projects from data collection, training, testing, and reporting.
  - position: Teaching assistant
     company_name: Radboud University
@@ -103,7 +103,7 @@ work:
     company_logo: ''
     date_start: 2017-01-01
     date_end: '2016-07-01'
-    summary: |
+    summary: |2-
       Description: Teaching assistant of the Intelligent Systems in Medical Imaging course for Master students. Supervised a Master student during her graduation project.
  - position: Team leader & Software Developer
     company_name: BTC & Motorola Mobility:
@@ -111,7 +111,7 @@ work:
     company_logo: ''
     date_start: 2013-09-01
     date_end: '2016-02-14'
-    summary: |
+    summary: |2-
       Description: Proposed solution for Google acceptance and sanity tests; 80% faster and 200% more precise than previous approaches. Created the Android Automation team and lead 5 Software developers.
  - position: Computer Vision Consultant
     company_name: OrkaPod Inc
@@ -119,7 +119,7 @@ work:
     company_logo: ''
     date_start: 2015-01-01
     date_end: '2015-12-31'
-    summary: |
+    summary: |2-
       Description: Reduced the false positive rate of OrkaPod’s face recognition algorithm using OpenCV.
    
 # Skills
