@@ -89,7 +89,7 @@ work:
     date_end: ''
     summary: |2-
       Responsibilities include:
- - position: Mentor of LiveProjects
+  - position: Mentor of LiveProjects
     company_name: Manning Publications Co.
     company_url: ''
     company_logo: ''
@@ -97,7 +97,7 @@ work:
     date_end: 2020-12-31
     summary: |2-
       Description: Guided 10 students to develop Deep Learning projects from data collection, training, testing, and reporting.
- - position: Teaching assistant
+  - position: Teaching assistant
     company_name: Radboud University
     company_url: ''
     company_logo: ''
@@ -105,7 +105,7 @@ work:
     date_end: 2016-07-01
     summary: |2-
       Description: Teaching assistant of the Intelligent Systems in Medical Imaging course for Master students. Supervised a Master student during her graduation project.
- - position: Team leader & Software Developer
+  - position: Team leader & Software Developer
     company_name: BTC & Motorola Mobility:
     company_url: ''
     company_logo: ''
