@@ -94,7 +94,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2020-01-01
-    date_end: '2020-12-31'
+    date_end: 2020-12-31
     summary: |2-
       Description: Guided 10 students to develop Deep Learning projects from data collection, training, testing, and reporting.
  - position: Teaching assistant
@@ -102,7 +102,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2017-01-01
-    date_end: '2016-07-01'
+    date_end: 2016-07-01
     summary: |2-
       Description: Teaching assistant of the Intelligent Systems in Medical Imaging course for Master students. Supervised a Master student during her graduation project.
  - position: Team leader & Software Developer
@@ -110,7 +110,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2013-09-01
-    date_end: '2016-02-14'
+    date_end: 2016-02-14
     summary: |2-
       Description: Proposed solution for Google acceptance and sanity tests; 80% faster and 200% more precise than previous approaches. Created the Android Automation team and lead 5 Software developers.
  - position: Computer Vision Consultant
@@ -118,7 +118,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2015-01-01
-    date_end: '2015-12-31'
+    date_end: 2015-12-31
     summary: |2-
       Description: Reduced the false positive rate of OrkaPod’s face recognition algorithm using OpenCV.
    
