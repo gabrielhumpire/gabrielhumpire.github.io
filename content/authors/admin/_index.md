@@ -113,7 +113,7 @@ work:
     date_end: 2016-02-14
     summary: |2-
       Description: Proposed solution for Google acceptance and sanity tests; 80% faster and 200% more precise than previous approaches. Created the Android Automation team and lead 5 Software developers.
- - position: Computer Vision Consultant
+  - position: Computer Vision Consultant
     company_name: OrkaPod Inc
     company_url: ''
     company_logo: ''
