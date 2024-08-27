@@ -80,7 +80,7 @@ work:
     date_start: 2020-03-01
     date_end: ''
     summary: |2-
-      Applied state-of-the-art Deep Learning, from prototype to optimization and deployment. Developed algorithms for classification, regression, and segmentation (2D and 3D) in CT scans. Worked with supervised and reinforcement learning algorithms. Conducted model evaluation, selection, and validation, ensuring robustness and reliability of deployed models. Communicated findings effectively through reports and presentations to both technical and non-technical audiences.
+      Applied state-of-the-art Deep Learning, from prototype to optimization and deployment. Developed algorithms for classification, regression, and segmentation (2D and 3D) in CT scans. Conducted model evaluation, selection, and validation, ensuring robustness and reliability of deployed models. Communicated findings effectively through reports and presentations to both technical and non-technical audiences.
   - position: Python researcher
     company_name: OutlierAI
     company_url: ''
