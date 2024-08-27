@@ -121,7 +121,31 @@ work:
     date_end: 2015-12-31
     summary: |2-
       Description: Reduced the false positive rate of OrkaPod’s face recognition algorithm using OpenCV.
-   
+  - position: Researcher and developer in Computer Vision
+    company_name: PCT Consulting Sao Paulo - New York
+    company_url: ''
+    company_logo: ''
+    date_start: 2013-03-01
+    date_end: 2013-12-31
+    summary: |2-
+      Engineered a real-time video surveillance prototype to detect and track individuals, using Computer Vision.
+  - position: Assistant professor and researcher
+    company_name: San Pablo Catholic University
+    company_url: ''
+    company_logo: ''
+    date_start: 2013-01-01
+    date_end: 2013-06-30
+    summary: |2-
+      Assistant professor and researcher in Machine Learning and Computer Vision.
+  - position: Developer and Junior Researcher
+    company_name: Cathedra CONCYTEC UNSA
+    company_url: ''
+    company_logo: ''
+    date_start: 2009-02-01
+    date_end: 2011-02-14
+    summary: |2-
+      Developed feature extraction algorithms using computer vision, the outcome was published in 3 scientific papers.
+
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
