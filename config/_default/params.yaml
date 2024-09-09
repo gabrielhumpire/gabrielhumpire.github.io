@@ -15,7 +15,7 @@ marketing:
     local_business_type: ''
     org_name: ''
   analytics:
-    google_analytics: ''
+    google_analytics: 'GTM-WRGPQBQZ'
     baidu_tongji: ''
     plausible: ''
     fathom: ''
