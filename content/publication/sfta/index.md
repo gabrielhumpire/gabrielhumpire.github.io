@@ -16,7 +16,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "A Costa, G Humpire-Mamani, AJM Traina. Graphics, Patterns and Images (SIBGRAPI), 2012 25th SIBGRAPI Conference on Graphics, Patterns and Images."
+publication: "Graphics, Patterns and Images (SIBGRAPI), 2012 25th SIBGRAPI Conference on Graphics, Patterns and Images."
 publication_short: ""
 
 abstract:
