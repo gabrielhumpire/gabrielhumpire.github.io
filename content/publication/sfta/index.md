@@ -16,7 +16,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Graphics, Patterns and Images (SIBGRAPI), 2012 25th SIBGRAPI Conference on Graphics, Patterns and Images."
+publication: "Graphics, Patterns and Images (SIBGRAPI), 2012 25th SIBGRAPI Conference on Graphics, Patterns and Images"
 publication_short: ""
 
 abstract:
@@ -26,10 +26,10 @@ abstract:
 summary: We proposed SFTA, a new feature extractor method that analyses texture and fractal features in an image.
 
 tags:
-- Segmentation
-- Deep Learning
-- CT scans
 - Computer Vision
+- Feature Extraction
+- CBIR
+- Machine Learning
 
 featured: false
 
