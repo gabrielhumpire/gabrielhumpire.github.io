@@ -1,5 +1,5 @@
 ---
-title: "Deep Learning for Localization and Segmentation in Thorax Abdomen CT."
+title: "Deep Learning for Localization and Segmentation in Thorax Abdomen CT"
 authors:
 - admin
 date: "2020-02-15"
