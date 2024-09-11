@@ -1,5 +1,5 @@
 ---
-title: "An Efficient Algorithm for Fractal Analysis of Textures."
+title: "An Efficient Algorithm for Fractal Analysis of Textures"
 authors:
 - Alceu Costa
 - admin
