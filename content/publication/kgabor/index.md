@@ -16,7 +16,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "2012 25th IEEE International Symposium on Computer-Based Medical Systems (CBMS)."
+publication: "2012 25th IEEE International Symposium on Computer-Based Medical Systems (CBMS)"
 publication_short: ""
 
 abstract:
