@@ -16,7 +16,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
-publication: "2012 IEEE Second International Conference on Healthcare Informatics, Imaging and Systems Biology"
+publication: "2012 IEEE Second International Conference on Healthcare Informatics, Imaging and Systems Biology (HISB)"
 publication_short: ""
 
 abstract:
