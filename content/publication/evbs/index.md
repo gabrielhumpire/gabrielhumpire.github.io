@@ -1,5 +1,5 @@
 ---
-title: "Automatic Segmentation of Battery Cells of Electric Vehicles."
+title: "Automatic Segmentation of Battery Cells of Electric Vehicles"
 authors:
 - admin
 date: "2023-01-01"
