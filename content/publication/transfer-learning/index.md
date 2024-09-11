@@ -33,7 +33,7 @@ tags:
 - Computer Vision
 - Segmentation
 
-featured: true
+featured: false
 
 links:
 url_pdf: 'https://arxiv.org/pdf/2311.05032'
