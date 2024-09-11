@@ -1,5 +1,5 @@
 ---
-title: "Efficient organ localization using multi-label convolutional neural networks in thorax-abdomen CT scans."
+title: "Efficient organ localization using multi-label convolutional neural networks in thorax-abdomen CT scans"
 authors:
 - admin
 - Arnaud Setio
