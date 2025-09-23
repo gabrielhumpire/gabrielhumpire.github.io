@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: Senior Data Scientist
+role: Computer Vision & Machine Learning Team Lead
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
