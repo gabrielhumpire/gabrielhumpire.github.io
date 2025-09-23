@@ -73,7 +73,7 @@ education:
     summary: |
     Dissertation on: Feature Extraction and Distance Function Selection to Retrieve Microscopic Images of Parasites.
 work:
-  - position: Technical Project Manager
+  - position: Technical Project Manager of Computer Vision
     company_name: Embention
     company_url: ''
     company_logo: ''
@@ -86,7 +86,7 @@ work:
     company_url: ''
     company_logo: ''
     date_start: 2020-03-01
-    date_end: ''
+    date_end: '2025-01-31'
     summary: |2-
       Applied state-of-the-art Deep Learning, from prototype to optimization and deployment. Developed algorithms for classification, regression, and segmentation (2D and 3D) in CT scans. Conducted model evaluation, selection, and validation, ensuring robustness and reliability of deployed models. Communicated findings effectively through reports and presentations to both technical and non-technical audiences.
   - position: Senior ML Researcher (Consultant)
