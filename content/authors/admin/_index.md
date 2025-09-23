@@ -73,14 +73,30 @@ education:
     summary: |
     Dissertation on: Feature Extraction and Distance Function Selection to Retrieve Microscopic Images of Parasites.
 work:
+  - position: Technical Project Manager
+    company_name: Embention
+    company_url: ''
+    company_logo: ''
+    date_start: 2025-02-01
+    date_end: ''
+    summary: |2-
+      Led an 8–10 member R&D; team to develop an autonomous drone-delivery vision system, achieving a 30% reduction in detection latency through algorithm optimisation. Recovered a project with a 5-month delay risk, delivering on time without scope reduction and improving cross-functional collaboration. Mentored engineers and coordinated with hardware, software, and QA teams to meet regulatory and safety requirements. Reported directly to CEO and COO.
   - position: Senior Data Scientist
-    company_name: Nuctech Netherlands B.V.
+    company_name: Instech Netherlands B.V.
     company_url: ''
     company_logo: ''
     date_start: 2020-03-01
     date_end: ''
     summary: |2-
       Applied state-of-the-art Deep Learning, from prototype to optimization and deployment. Developed algorithms for classification, regression, and segmentation (2D and 3D) in CT scans. Conducted model evaluation, selection, and validation, ensuring robustness and reliability of deployed models. Communicated findings effectively through reports and presentations to both technical and non-technical audiences.
+  - position: Senior ML Researcher (Consultant)
+    company_name: Deep Design Systems
+    company_url: ''
+    company_logo: ''
+    date_start: 2024-05-01
+    date_end: ''
+    summary: |2-
+      Developed AI pipelines for 3D product generation from text using diffusion models and neural radiance fields (NeRFs). Implemented multi-view neural rendering to create photorealistic 3D environments and improved pipeline efficiency.
   - position: Advanced Python developer and reviewer
     company_name: OutlierAI
     company_url: ''
@@ -235,4 +251,4 @@ awards:
 
 ## About Me
 
-I am an experienced data scientist with a strong background in Python & C++, Computer Vision, deep learning, and machine learning in medical imaging. I have developed, deployed, and evaluated neural networks, particularly in medical imaging and computer vision. Additionally, my research applied to medical imaging has garnered over 1600 citations on [Google Scholar](https://scholar.google.com/citations?user=oE82pPoAAAAJ&hl=en&oi=ao).
+Dynamic machine learning leader with over 15 years in computer vision and 9 years in deep learning. Recognised for guiding cross-functional teams of 5–10 engineers, delivering mission-critical AI projects ahead of schedule, and achieving measurable performance improvements. Key achievements include completing a drone-vision project 5 months early with a 30% reduction in detection latency, winning a national COVID-19 CT segmentation competition, and leading a COVID-19 diagnostic system that became one of two finalists among 30 companies in the IdeiaGov innovation challenge in Brazil. Published research has been cited over 2200 times on [Google Scholar](https://scholar.google.com/citations?user=oE82pPoAAAAJ&hl=en&oi=ao). Expertise spans medical imaging, drone vision, diffusion and radiance field models, and large language model fine-tuning. Adept at driving projects from R&D; to production, mentoring talent, and aligning AI initiatives with business outcomes.
