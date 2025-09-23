@@ -1,11 +1,10 @@
 ---
 title: Analysis of electrical vehicle batteries
-date: 2023-10-26
-external_link: https://github.com/scikit-learn/scikit-learn
+date: 2023-01-26
 tags:
-  - Hugo
-  - Wowchemy
-  - Markdown
+  - Deep Learning
+  - Computer Vision
+  - Engineering
 ---
 
 Analysis of electrical vehicle batteries.
