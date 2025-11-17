@@ -50,8 +50,8 @@ jobs:
       with:
         node-version: '20'    # any reasonably recent LTS is fine
 
-    - name: Install Tailwind CLI
-      run: npm install tailwindcss @tailwindcss/cli
+    - name: Install Tailwind + plugins
+      run: npm install tailwindcss @tailwindcss/cli @tailwindcss/typography
     - name: Build with Hugo
       env:
         HUGO_ENVIRONMENT: production
