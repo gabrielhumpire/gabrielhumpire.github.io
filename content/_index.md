@@ -77,6 +77,17 @@ sections:
         exclude_featured: false
     design:
       view: citation
+  # Recent posts
+  - block: collection
+    content:
+      title: Recent Posts
+      filters:
+        folders:
+          - post
+    design:
+      view: article-grid
+      columns: 3
+
   # Awards
   - block: resume-awards
     content:
