@@ -47,11 +47,17 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
-  # Relevant projects
+  # Skills
+  - block: resume-skills
+    content:
+      title: Skills
+      username: admin
+
+  # Featured publications
   - block: collection
     id: papers
     content:
-      title: Relevant Projects
+      title: Selected Publications
       filters:
         folders:
           - publication
@@ -63,7 +69,7 @@ sections:
   # Scientific publications
   - block: collection
     content:
-      title: Recent Publications
+      title: All Publications
       text: ""
       filters:
         folders:

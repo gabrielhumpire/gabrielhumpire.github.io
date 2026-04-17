@@ -1,94 +1,44 @@
 ---
-title: ✅ Manage your projects
-summary: Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
-date: 2023-10-23
+title: "End-to-End Computer Vision: From Requirements to Deployed System"
+summary: Reflections on 15 years taking CV systems from research prototype to production - what the gap really looks like, and how to close it.
+date: 2024-01-15
+
 authors:
   - admin
+
 tags:
-  - Hugo Blox
-  - Markdown
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com)'
+  - Computer Vision
+  - Engineering
+  - ML in Production
 ---
 
-Easily manage your projects - create ideation mind maps, Gantt charts, todo lists, and more!
+After 15 years working in computer vision - through a PhD, multiple industry roles, and a few startups - I've shipped systems that went from whiteboard sketch to production deployment. This post is about what that journey actually looks like, and the lessons that only come from doing it end-to-end.
 
-## Ideation
+## Requirements Are the Hardest Part
 
-Hugo Blox supports a Markdown extension for mindmaps.
+In research, the problem is given to you. In production, you have to discover it. "Detect anomalies in CT scans" is not a requirement. "Flag studies with a sensitivity of at least 92% while keeping false positives below 5% per study, with results available within 3 minutes of scan acquisition, running on a single GPU workstation" - that is a requirement.
 
-Simply insert a Markdown code block labelled as `markmap` and optionally set the height of the mindmap as shown in the example below.
+Every project I've worked on has been redefined at least once after the first prototype. Building for changeability is more valuable than building for the original spec.
 
-Mindmaps can be created by simply writing the items as a Markdown list within the `markmap` code block, indenting each item to create as many sub-levels as you need:
+## The Prototype Trap
 
-<div class="highlight">
-<pre class="chroma">
-<code>
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
-</code>
-</pre>
-</div>
+A prototype that achieves 94% accuracy on your held-out test set is not a product. The questions that matter:
 
-renders as
+- How does it perform on data from a different scanner model?
+- What happens when the input is corrupted or incomplete?
+- How does a clinician or operator actually interact with the output?
+- What is the failure mode, and is it safe?
 
-```markmap {height="200px"}
-- Hugo Modules
-  - Hugo Blox
-  - blox-plugins-netlify
-  - blox-plugins-netlify-cms
-  - blox-plugins-reveal
-```
+Medical imaging taught me this faster than any other domain. A false negative in cancer screening is not an acceptable failure mode.
 
-## Diagrams
+## Iteration Is the Work
 
-Hugo Blox supports the _Mermaid_ Markdown extension for diagrams.
+The drone delivery project I led at Embention is a good example. The first detection model worked well in controlled lab conditions. Outdoor lighting, vibration, variable altitude, and regulatory edge cases forced five major architecture revisions before we had something deployable. Each revision was cheaper than the last because we had built good evaluation tooling early.
 
-An example **Gantt diagram**:
+The 30% latency reduction we eventually achieved did not come from a clever algorithm - it came from profiling, identifying that the bottleneck was preprocessing, and rewriting that stage in C++ with CUDA.
 
-    ```mermaid
-    gantt
-    section Section
-    Completed :done,    des1, 2014-01-06,2014-01-08
-    Active        :active,  des2, 2014-01-07, 3d
-    Parallel 1   :         des3, after des1, 1d
-    Parallel 2   :         des4, after des1, 1d
-    Parallel 3   :         des5, after des3, 1d
-    Parallel 4   :         des6, after des4, 1d
-    ```
+## Deployment Is a Feature
 
-renders as
+Models don't deploy themselves. Containerisation (Docker), hardware-specific optimisation (TensorRT, ONNX), monitoring, and rollback procedures are engineering work that needs to be planned from day one - not bolted on at the end.
 
-```mermaid
-gantt
-section Section
-Completed :done,    des1, 2014-01-06,2014-01-08
-Active        :active,  des2, 2014-01-07, 3d
-Parallel 1   :         des3, after des1, 1d
-Parallel 2   :         des4, after des1, 1d
-Parallel 3   :         des5, after des3, 1d
-Parallel 4   :         des6, after des4, 1d
-```
-
-## Todo lists
-
-You can even write your todo lists in Markdown too:
-
-```markdown
-- [x] Write math example
-  - [x] Write diagram example
-- [ ] Do something else
-```
-
-renders as
-
-- [x] Write math example
-  - [x] Write diagram example
-- [ ] Do something else
-
-## Did you find this page helpful? Consider sharing it 🙌
+The most valuable skill I have developed is being fluent in both the research side (what the model can learn) and the engineering side (what it will cost to run). That fluency is what makes end-to-end delivery possible.

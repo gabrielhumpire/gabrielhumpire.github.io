@@ -1,12 +1,13 @@
 ---
-title: CFD
+title: Aerodynamic Shape Optimisation with Deep Learning
 date: 2025-07-26
 tags:
   - Deep Learning
-  - Image Processing
-  - Machine Learning
+  - Computer Vision
+  - Simulation
+  - Engineering
 ---
 
-Aerodynamics of cars using CFDs in Deep Learning.
+Surrogate deep learning model replacing computationally expensive CFD simulations for car aerodynamics shape optimisation. Trained on CFD-generated flow field data to predict drag and lift coefficients, enabling rapid iteration on vehicle designs.
 
 <!--more-->
