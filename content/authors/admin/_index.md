@@ -54,7 +54,7 @@ education:
     date_start: 2016-02-15
     date_end: 2020-02-15
     summary: |
-      Thesis on Deep Learning for Localization and Segmentation in Thorax Abdomen CT. Lab ranked #2 in the world for ML applied to medical imaging. Research contributed to publications cited 2200+ times.
+      Thesis on Deep Learning for Localization and Segmentation in Thorax Abdomen CT. Lab ranked #2 in the world for ML applied to medical imaging. Research contributed to publications cited 2600+ times.
     button:
       text: 'Read Thesis'
       url: 'https://www.diagnijmegen.nl/publications/hump24/'
@@ -83,7 +83,7 @@ work:
     date_end: ''
     summary: |2-
       Applying deep learning and computer vision to pharmaceutical research and drug discovery pipelines.
-  - position: Senior ML Researcher (Consultant)
+  - position: Senior ML Researcher
     company_name: Deep Design Systems
     company_url: ''
     company_logo: ''
@@ -247,8 +247,8 @@ awards:
 
 ## About Me
 
-Computer vision researcher and ML engineer with 15+ years of experience - from publishing in top medical imaging journals to deploying production AI systems in medical diagnostics, drone delivery, and industrial inspection.
+Computer vision researcher and ML engineer with 15+ years of experience, from publishing in top medical imaging journals to deploying production AI systems in medical diagnostics, drone delivery, and industrial inspection.
 
-PhD from Radboud University Medical Center (world's **#2-ranked ML lab** for medical imaging), with research **cited over 2,200 times** on Google Scholar. Winner of Brazil's national COVID-19 CT segmentation challenge. Currently working as **Senior AI Researcher at AstraZeneca** and ML Consultant at Deep Design Systems.
+PhD from Radboud University Medical Center (world's #2-ranked ML lab for medical imaging), with research cited over 2600 times on Google Scholar. Winner of Brazil's national COVID-19 CT segmentation challenge. Currently working as Senior AI Researcher at AstraZeneca and ML Consultant at Deep Design Systems.
 
 Proven track record taking projects end-to-end: from requirements and R&D through training, optimisation, and deployment on embedded hardware (Jetson AGX Xavier, TensorRT, Docker). Expertise spans medical imaging, autonomous drone vision, diffusion models, NeRFs, and LLM fine-tuning.
